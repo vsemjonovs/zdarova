@@ -1,4 +1,3 @@
 # zdarova
-privet
-yo mf
-norm
+
+yo
